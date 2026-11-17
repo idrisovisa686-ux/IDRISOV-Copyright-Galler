@@ -1,0 +1,3 @@
+SOURCE ONLY - NOT A COMPILED APK.
+Fixed GitHub Actions SDK setup failure and Kotlin coroutine scope declaration order.
+Not compiled or device-tested.
